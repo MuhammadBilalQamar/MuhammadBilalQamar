@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm MuhammadBilalQamar</h1>
 <br>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me bilalqmr1@gmail.com<br>💬 Love to talk about programming and new technologies<br>
