@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MuhammadBilalQamar</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Bilal From Pakistan</h1>
 <br>
 
 # 💫 About Me:
