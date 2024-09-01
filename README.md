@@ -2,7 +2,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me bilalqmr1@gmail.com<br>💬 Love to talk about programming and new technologies<br>
+🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me bilalqmr1@gmail.com<br>💬 Love to talk about programming and new technologies<br>💻 Porfolio: https://muhammad-bilal-theta.vercel.app/ <br>
 <br>
 
 ## 🌐 Socials:
